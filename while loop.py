@@ -38,7 +38,7 @@ while a<20:
         print("not eligible for vote")'''
 
 
-'''the range function return a seqence of nums , starting from zero by default and increement by one and it stops before a speciified num'''
+#the range function return a seqence of nums , starting from zero by default and increement by one and it stops before a speciified num'''
 
 #range()
 #start-stop-step
